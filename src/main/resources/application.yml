@@ -1,0 +1,13 @@
+
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driver-class-name: org.h2.Driver
+#    username: sa
+#    password:
+  #driver-class-name: oracle.jdbc.OracleDriver
+  #url: jdbc:h2:tcp://localhost/~/querydsl
+  #driver-class-name: oracle.jdbc
+  #schema: classpath:data.sql
+  #initialization-mode: always
+  #url: jdbc:oracle:thin:@13.125.71.219:1521:XE
